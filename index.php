@@ -11,8 +11,8 @@
       <p>j'en fait un tartare</p>
 
       <p>enculé</p>
-      <p>gros nigaud t'est moisi d'la flute</p>
       <p>fils de pute</p>
+      <p>gros nigaud t'est moisi d'la flute</p>
 
 
 
